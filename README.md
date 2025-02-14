@@ -1,4 +1,4 @@
-Stone-Paper-Scissor Game 🎮
+# Stone-Paper-Scissor Game 🎮
 
 📌 About the Project
 
