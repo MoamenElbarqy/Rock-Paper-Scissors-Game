@@ -17,7 +17,7 @@
 		} while (num > To || num < From);
 		return num;
 	}
-	int RandomNumberInRange(int From, int To)
+	int RandomNumberInRange(const int From,const int To)
 	{
 		return rand() % (To - From + 1) + From;
 	}
@@ -34,7 +34,6 @@
 
 		default:
 			return "Unknown Weapon";
-
 		}
 	}
 	void ShowWeapons()
