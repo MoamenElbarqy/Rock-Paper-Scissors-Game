@@ -34,9 +34,4 @@ After all rounds, the final winner is determined.
 
 You can choose to play again or exit.
 
-## 📁 Files Included
-
-main.cpp → The source code of the game.
-
-Enjoy the game! 🎉
 
