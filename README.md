@@ -1,10 +1,10 @@
-# Stone-Paper-Scissor Game 🎮
+# Stone-Paper-Scissor Game 
 
-## 📌 About the Project
+##  About the Project
 
 This is a simple Stone-Paper-Scissor game written in C++. The player competes against the computer in multiple rounds, and the final winner is determined based on the number of rounds won.
 
-## 🛠️ Features
+##  Features
 
 Play against the computer.
 
@@ -14,17 +14,17 @@ Multiple rounds with automatic score tracking.
 
 Option to replay the game.
 
-## 🎯 How to Play
+##  How to Play
 
 When the game starts, enter the number of rounds (1 to 10).
 
 Choose your weapon:
 
-1 for Stone 🪨
+1 for Stone 
 
-2 for Paper 📄
+2 for Paper 
 
-3 for Scissor ✂️
+3 for Scissor 
 
 The computer randomly selects its weapon.
 
